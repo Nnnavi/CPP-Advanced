@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TryParse.h">
+    <ClInclude Include="..\..\..\..\Desktop\C++ Advanced\1. Pointers and References\Task 1 - TryParse_Description and Code\Skeleton\TryParse.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
